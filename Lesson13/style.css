@@ -40,8 +40,9 @@ body{
     letter-spacing: 2px;
     color: #898691;
     text-decoration: none;
-    margin-left: 6px;
-    font-size: 14px;
+    margin-left: 10px;
+    font-size: 13px;
+    padding-top: 2px;
 }
 
 .header-menu-title:hover{
@@ -70,7 +71,7 @@ body{
     text-decoration: none;
     color: #898691;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .header-search-launcher:hover{
@@ -321,7 +322,7 @@ h1{
     font-size: 21px;
     font-weight: 700;
     border: 3px solid #ffe18f;
-    padding: 6px;
+    padding: 4px;
     text-align: center;
 }
 
@@ -375,7 +376,7 @@ h1{
     font-size: 21px;
     font-weight: 700;
     border: 3px solid #ffe18f;
-    padding: 6px;
+    padding: 4px;
     text-align: center;
 }
 
@@ -430,26 +431,21 @@ h1{
     color: #eb7b61;
 }
 
-.sixth-slider::after{
-    content: '';
-    display: block;
-    clear: both;
-}
 
                                          /*FOOTER*/
 
 
 .footer-title{
     color: #76737f;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom: 70px;
     flex-basis: 93%;
 } 
 
 .footer-facebook{
-    padding-top: 18px;
+    padding-top: 8px;
 }
 
 .footer-twitter{
-    padding-top: 20px;
+    padding-top: 10px;
 }
